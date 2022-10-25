@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <body>
-        <style>
-    img
-    {
-    margin:1%
-    }
-    </style>
+
 <h3>Hi there, I am Joel! 👋</h3>
 
 <h2 style="margin-bottom:0px">I'm a Developer</h2>
@@ -19,8 +11,7 @@
 <li>⚡<b>Hit me up</b>: 
 <div><a href="https://www.linkedin.com/in/joel-mathew-philip-410b93179/"><img src="https://user-images.githubusercontent.com/45589731/197844270-e05afdcd-9b18-4837-aee1-4e859c8a0d85.png" width="25"></a>    <a href="https://www.instagram.com/joel_mathew_philip/"><img src="https://user-images.githubusercontent.com/45589731/197844160-f0ec80fc-c94c-469c-bd75-3c3e974760fe.png" width="30"></a>   <a href="https://leetcode.com/joelmathew2809/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"></a></div></li>
 </ul>
-</body>
-</html>
+
 <!---
 joelmathewphilip/joelmathewphilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
