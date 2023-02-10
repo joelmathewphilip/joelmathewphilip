@@ -12,7 +12,7 @@
  <a href="#"><img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" width="25"/></div></a></li>
 
 </br>
-<li>📍<b>Location</b>: <br>Hyderabad, India </br></li><br>
+<li>📍<b>Location</b>: <br>Kochi, India </br></li><br>
 
 <li>⚡<b>Hit me up</b>: 
 <div><a href="https://www.linkedin.com/in/joel-mathew-philip-410b93179/"><img src="https://user-images.githubusercontent.com/45589731/197844270-e05afdcd-9b18-4837-aee1-4e859c8a0d85.png" width="30"></a>    <a href="https://www.instagram.com/joel_mathew_philip/"><img src="https://user-images.githubusercontent.com/45589731/197844160-f0ec80fc-c94c-469c-bd75-3c3e974760fe.png" width="30"></a>   <a href="https://leetcode.com/joelmathew2809/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"></a></div></li>
